@@ -1,45 +1,49 @@
 # Company Introduction
 
-We are a UI design and mobile development studio based in San Jose, CA. We help organizations from startups to Fortune 1000 companies create memorable, human-centric mobile experiences. We are an official Google Vendor and partnered with Twilio, and Aruba Networks.
-
-We do this by bringing out the best of their product, which includes applying emerging trends and technologies together for all of our partners from a wide variety of technology industries including e-commerce, drones, and Internet of Things.
+Impekable is a UX design and software engineering agency headquartered in San Jose, CA. We’re a top ranked San Francisco Bay agency with a mostly remote based team as well as a 2018 Inc5000 Top Fastest Growing Companies in America Honoree
+We are an official Google Vendor, official partners of Adobe, Twilio, and Aruba Networks.
 
 # Job Description
 
-We are looking for an ReactJS Developer responsible for the client side of our service. Your primary focus will be to implement a complete user interface in the form of a mobile and desktop web app, with a focus on performance. Your main duties will include creating React components and coupling them together into a functional app. The artistic design will be delivered to you, together with a Zeplin project, but we will ask for your help in regard to animations, CSS, and final HTML output. You will work in a team with the back-end developer, and communicate with the API using standard methods. A thorough understanding of all of the components of our platform and infrastructure is required.
+We are looking for a remote ReactJS Developer responsible for the client side of our service. Your primary focus will be to implement a complete user interface in the form of a mobile and desktop web app, with a focus on performance. Your main duties will include creating React components and coupling them together into a functional app. The artistic design will be delivered to you, together with a Zeplin project, but we will ask for your help in regard to animations, CSS, and final HTML output. You will work in a team with the back-end developer, and communicate with the API using standard methods. A thorough understanding of all of the components of our platform and infrastructure is required.
 
-## Responsibilities
+- Communication Skills
+- Written and spoken english 
+- Responsive communication over online tools (Slack / GoogleHangout / Skype / Line etc)
 
-  - Delivering a complete front end application
-  - Ensuring high performance on mobile and desktop
-  - Writing tested, idiomatic, and documented JavaScript, HTML and CSS
-  - Coordinating the workflow between the graphic designer, the HTML coder, and yourself
-  - Interfacing application data to Google Firebase
-  - Communicating with external web services
+# Responsibilities
 
-## Skills and Qualifications
+- Delivering a complete front end application
+- Ensuring high performance on mobile and desktop
+- Writing tested, idiomatic, and documented JavaScript, HTML and CSS
+- Coordinating the workflow between the graphic designer, the HTML coder, and yourself
+- Interfacing application data to Google Firebase
+- Communicating with external web services
 
-  - Proficiency with JavaScript and HTML5
-  - Professional, precise communication skills
-  - Deep knowledge of ReactJS practices and commonly used modules based on extensive work experience
-  - Creating self-contained, reusable, and testable modules and components
-  - Ensuring a clear dependency chain, in regard to the app logic as well as the file system
-  - Ability to provide SEO solutions for single page apps
-  - Extensive knowledge of CSS and JS methods for providing proficient visual effects and keeping the framerate above 30fps at all times
-  - Thorough understanding of the responsibilities of the platform, database, API, caching layer, proxies, and other web services used in the system
-  - Validating user actions on the client side and providing responsive feedback
-  - Writing non-blocking code, and resorting to advanced techniques such as multi-threading, when needed
-  - Creating custom, general use components which extend the elements and modules of core ReactJS
-  - Experience with all levels of operation available to the front-end, such as from creating XHRs in vanilla JS to using a custom wrapper around $resource
-  - Experience with building the infrastructure for serving the front-end app and assets
-  - Architecting and automating the build process for production, using task runners or scripts
-  - Documenting the code inline using JSDoc or other conventions
-  - Writing extensive unit tests using automated TDD tasks
-  - Creating e2e test suites for all components, and running them with Protractor (or a well reasoned alternative)
-  - Creating configuration, build, and test scripts for Continuous Integration environments
+# Skills and Qualifications
 
+- Proficiency with JavaScript and HTML5
+- Professional, precise communication skills
+- Deep knowledge of ReactJS practices and commonly used modules based on extensive work experience
+- Creating self-contained, reusable, and testable modules and components
+- Ensuring a clear dependency chain, in regard to the app logic as well as the file system
+- Ability to provide SEO solutions for single page apps
+- Extensive knowledge of CSS and JS methods for providing proficient visual effects and keeping the framerate above 30fps at all times
+- Thorough understanding of the responsibilities of the platform, database, API, caching layer, proxies, and other web services used in the system
+- Validating user actions on the client side and providing responsive feedback
+- Writing non-blocking code, and resorting to advanced techniques such as multi-threading, when needed
+- Creating custom, general use components which extend the elements and modules of core ReactJS
+- Experience with all levels of operation available to the front-end, such as from creating XHRs in vanilla JS to using a custom wrapper around $resource
+- Experience with building the infrastructure for serving the front-end app and assets
+- Architecting and automating the build process for production, using task runners or scripts
+- Documenting the code inline using JSDoc or other conventions
+- Writing extensive unit tests using automated TDD tasks
+- Creating e2e test suites for all components, and running them with Protractor (or a well reasoned alternative)
+- Creating configuration, build, and test scripts for Continuous Integration environments
 
-## Our Values
+Salary: based on experience 
+
+# Our Values
 
 Clients keep coming back to us because we are driven towards building good relationships by putting their needs first.
 
@@ -47,12 +51,44 @@ Whether it is helping the early stage startup get their foot off the ground or b
 
 We believe in creating quality design and development that is effective in achieving our client’s goals. Our work has helped our clients achieve worldwide recognition as a Best New App and mentions on large publications.
 
-## Impekable Team
+# Impekable Team
 
 Our team is made up of creative, multi-talented individuals from different walks of life. Each member combines their knowledge of design, development, and problem-solving abilities to create a compelling user experience that suits every unique product.
 
-Our tight-knit company culture ensures that our office is a place where creativity can thrive and our client’s ideas can prosper. 
-SMS Powered Chat with Twilio’s
+Our tight-knit company culture ensures that our office is a place where creativity can thrive and our client’s ideas can prosper. 
+
+
+Company Links:
+
+https://impekable.com/
+https://clutch.co/app-developers/san-francisco/leaders-matrix
+https://www.glassdoor.com/Reviews/Impekable-Reviews-E957441.htm
+https://www.behance.net/impekable
+https://dribbble.com/impekable
+https://www.instagram.com/beimpekable/
+
+Press Mentions:
+https://bizjournals.com/sanjose/news/2018/08/16/these-47-silicon-valley-companies-made-the-inc.html
+https://techcrunch.com/2018/06/27/twilio-launches-its-new-partner-program/
+https://medium.com/adobetech/the-new-adobe-xd-ecosystem-supercharging-design-workflows-with-third-party-plugins-a1844949a970
+https://www.adobe.com/products/xd/ui-design-kits.html
+
+# Our Customers:
+- Google
+- Nike
+- Adobe
+- Accenture
+
+# How to contact us:
+
+Email tech@impekable.com with the headline ‘Thai ReactJS Job Posting’
+Attached your:
+Resume and cover letter
+Include:
+Websites / projects you have worked on and how you contributed
+LinkedIn profile if any
+Github profile if any
+
 
 # Code Challenge:
 
